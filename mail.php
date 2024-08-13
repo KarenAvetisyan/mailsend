@@ -1,6 +1,6 @@
 <?php
 $to = "kareniweb1995@gmail.com";
-$from = "info@kkaren.000webhostapp.com";
+$from = "info@https://mailsend-black.vercel.app/";
 $subject = "Новая заявка " . $_SERVER['HTTP_REFERER'];
 
 $name = $_POST['name'];
